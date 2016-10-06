@@ -1,0 +1,30 @@
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Press_Your_Luck.gameForm.resources
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Press Your Luck.csproj.GenerateResource.Cache
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Press Your Luck.csprojResolveAssemblyReference.cache
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\Press Your Luck\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\Press Your Luck\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\Press Your Luck\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\Press Your Luck\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\Press Your Luck\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\Press Your Luck\WindowsFormsApplication4\obj\Debug\Press Your Luck.csprojResolveAssemblyReference.cache
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\Press Your Luck\WindowsFormsApplication4\obj\Debug\Press_Your_Luck.gameForm.resources
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\Press Your Luck\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Mason\Desktop\Press Your Luck\newPressLuck\Press Your Luck\WindowsFormsApplication4\obj\Debug\Press Your Luck.csproj.GenerateResource.Cache
+C:\Users\Mason\Desktop\new_Press_Your_Luck\PYL\Press Your Luck\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Mason\Desktop\new_Press_Your_Luck\PYL\Press Your Luck\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Mason\Desktop\new_Press_Your_Luck\PYL\Press Your Luck\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\PYL\Press Your Luck\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\PYL\Press Your Luck\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\PYL\Press Your Luck\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\PYL\Press Your Luck\WindowsFormsApplication4\obj\Debug\Press Your Luck.csprojResolveAssemblyReference.cache
+C:\PYL\Press Your Luck\WindowsFormsApplication4\obj\Debug\Press_Your_Luck.GameForm.resources
+C:\PYL\Press Your Luck\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\PYL\Press Your Luck\WindowsFormsApplication4\obj\Debug\Press Your Luck.csproj.GenerateResource.Cache
+C:\PYL\Press Your Luck\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\PYL\Press Your Luck\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
